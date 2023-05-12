@@ -1,0 +1,36 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+
+
+.div_header{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.foto_perfil{
+
+  width: 14%;
+  border-radius: 100px;
+}
+
+p{
+  text-align: center;
+  font-size: 25px;
+  padding: 38px;
+  color: rgb(10, 80, 209);
+ 
+}
+
+h1{
+  color: rgb(10, 80, 209);
+}
+
+.ig,.face {
+  width: 100px ;
+  height: 100px;
+
+}
