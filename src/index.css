@@ -1,14 +1,18 @@
 *{
   margin: 0;
   padding: 0;
+  background-color: #f2f2f2;
 }
 
 
 .div_header{
+  
   display: flex;
   flex-direction: column;
   justify-content: center;
   align-items: center;
+    background-color: coral;
+
 }
 
 .foto_perfil{
@@ -21,16 +25,22 @@ p{
   text-align: center;
   font-size: 25px;
   padding: 38px;
-  color: rgb(10, 80, 209);
+  color: white;
+  background-color: black;
+  font-family: cursive;
  
 }
 
 h1{
-  color: rgb(10, 80, 209);
+  color: white;
+  background-color: coral;
+  font-family: cursive;
 }
 
 .ig,.face {
   width: 100px ;
   height: 100px;
-
+         
 }
+
+
